@@ -6,7 +6,6 @@
 ![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?&logo=docker&logoColor=white)
 
 <div align="center">
-  <img src="https://github.com/rahfianugerah/mlops-tfx/blob/main/img/mlops.png" height=150/>
   <h3><b>Machine Learning Operations</b></h3>
   <p>
     A repository created to focus on the development and implementation of Machine Learning Operations (MLOps) pipelines
